@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Pratiyush Kumar
 
-<!--
-**Pratiyush379/Pratiyush379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer | C++ & DSA Learner
 
-Here are some ideas to get you started:
+I'm currently learning **C++ and Data Structures & Algorithms**, solving problems on **LeetCode**, and building my skills one problem at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning C++ and DSA
+* 🧠 Regularly solving problems on LeetCode
+* 💻 Interested in Software Development and AI
+* 🛠️ Looking forward to building real-world projects
+
+## 🛠️ Languages & Tools
+
+C++ • Git • GitHub • VS Code • Visual Studio
+
+## 📊 My GitHub Journey
+
+More projects and contributions coming soon!
+
+## 🐍 Watch My Contributions Get Eaten
+
+![Snake animation](https://raw.githubusercontent.com/pratiyush379/pratiyush379/output/github-contribution-grid-snake-dark.svg)
