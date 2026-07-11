@@ -193,6 +193,15 @@ GitHub &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; LinkedIn &nbsp;&nbsp;&nbsp;·&nbsp
 </p>
 
 <br><br>
+<h3>✦ contributions in motion</h3>
+
+<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pratiyush379/pratiyush379/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</p>
+
+<br><br>
 
 <hr>
 
