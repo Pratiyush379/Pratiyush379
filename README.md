@@ -1,24 +1,90 @@
-# Hi 👋, I'm Pratiyush Kumar
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💻 Aspiring Software Developer | C++ & DSA Learner
+<pre>
+                 .............
+             ..::::::::::::::::..
+          .:::::::::::::::::::::::.
+        .:::::::::::::::::::::::::::.
+       :::::::::::::::::::::::::::::::
+      :::::::::::::::::::::::::::::::::
+     :::::::::::::::::::::::::::::::::::
+    :::::::::::::::::::---::::::::::::::
+   ::::::::::::::------------:::::::::::
+   ::::::::::::----------------:::::::::
+  :::::::::::-------------------::::::::
+  :::::::::----------------------:::::::
+ :::::::::------------------------:::::::
+ ::::::::-------------------------:::::::
+ :::::::---------======------------::::::
+ ::::::-------============---------::::::
+ ::::::------==============--------::::::
+ :::::------================-------::::::
+ :::::-----==================------::::::
+ :::::----=======++++=========-----::::::
+ ::::----======++++++++========----::::::
+ ::::----=====++++++++++=======----::::::
+ ::::---=====++++++++++++======----::::::
+ ::::---====+++++****+++++=====----::::::
+ :::----====++++******++++=====----::::::
+ :::----====+++********+++=====----::::::
+ :::----===++++********++++====----::::::
+ :::----===+++**********+++====----::::::
+ :::----===+++***####***+++====----::::::
+ :::----===+++**######**+++====----::::::
+ :::----===+++**######**+++====----::::::
+ :::----====++***####***++=====----::::::
+ ::::---====+++********+++=====----::::::
+ ::::---=====+++******+++======----::::::
+ ::::----=====++++++++++=======----::::::
+ :::::---=======++++++=========----::::::
+ :::::----====================-----::::::
+ :::::-----==================------::::::
+ ::::::------==============--------::::::
+ :::::::-------==========----------::::::
+ ::::::::-------------------------:::::::
+ :::::::::-----------------------::::::::
+ ::::::::::---------------------:::::::::
+ ::::::::::::-----------------:::::::::::
+ ::::::::::::::-------------:::::::::::::
+ :::::::::::::::::-------::::::::::::::::
 
-I'm currently learning **C++ and Data Structures & Algorithms**, solving problems on **LeetCode**, and building my skills one problem at a time.
+        P R A T I Y U S H
+</pre>
 
-## 🚀 About Me
+</td>
 
-* 🌱 Currently learning C++ and DSA
-* 🧠 Regularly solving problems on LeetCode
-* 💻 Interested in Software Development and AI
-* 🛠️ Looking forward to building real-world projects
+<td width="50%" valign="top">
 
-## 🛠️ Languages & Tools
+<h1>Hey, I'm Pratiyush 👋</h1>
 
-C++ • Git • GitHub • VS Code • Visual Studio
+<h3>CS Student • C++ • DSA • Building Stuff</h3>
 
-## 📊 My GitHub Journey
+<pre>
+pratiyush379@github
+-------------------------
+OS       → Student.exe
+Focus    → C++ & DSA
+Learning → Problem Solving
+Editor   → VS Code
+Fuel     → Curiosity
+Status   → Building...
+</pre>
 
-More projects and contributions coming soon!
+<h3>⚡ About Me</h3>
 
-## 🐍 Watch My Contributions Get Eaten
+```cpp
+class Pratiyush {
+public:
+    string currentlyLearning = "C++ & DSA";
+    string currentMission = "Get better every day";
+    string nextGoal = "Build real-world projects";
 
-![Snake animation](https://raw.githubusercontent.com/pratiyush379/pratiyush379/output/github-contribution-grid-snake-dark.svg)
+    void life() {
+        learn();
+        code();
+        build();
+        repeat();
+    }
+};
